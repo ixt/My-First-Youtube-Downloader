@@ -4,9 +4,9 @@
 
 Hey guys, its orange here with another cool script
 this time you need :
-    * Youtube-dl
-    * Lynx (the browser not the spray lol)
-    * mpv
+* Youtube-dl
+* Lynx (the browser not the spray lol)
+* mpv
 
 These can be found in the Debian repos and most other repos too!
 I assume you can get them in brew as well (you can grab youtube-dl from pip)
