@@ -1,0 +1,6 @@
+[ ]: Update Download script to detect if its a raspberry pi
+[ ]: Pull in the changes from streaming hot mess to how playlists can happen
+[ ]: Pull in the lynx replacement snippet from streaming hot mess
+[ ]: Add in youtube-dl detection and download script (rather than having to download our own
+[ ]: Add an argument scraper and help message
+[ ]: Update screenshot
